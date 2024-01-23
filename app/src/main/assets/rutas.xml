@@ -1,0 +1,8 @@
+<rutas>
+    <ruta nombre="Ruta1" coordX="154.67" coordY="-187.65">
+        <descripcion>Esto es una ruta de ejemplo</descripcion>
+    </ruta>
+    <ruta nombre="Ruta2" coordX="154.67" coordY="-187.65">
+        <descripcion>Esto es una ruta de ejemplo</descripcion>
+    </ruta>
+</rutas>
